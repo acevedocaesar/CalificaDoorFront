@@ -10,7 +10,7 @@ class cabecera extends HTMLElement {
            <div class="row">
                 <div class="col-md-6">
                    <h1>
-                       <i class="<mat-icon>face</mat-icon>"></i>Estudiantes
+                       <i class=""fas fa-cog></i>Estudiantes
                    </h1>
                 </div>
            </div>
